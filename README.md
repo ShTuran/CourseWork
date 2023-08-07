@@ -1,2 +1,4 @@
 # CourseWork
-Object Oriented Design – Implement Simple ATM
+## Object Oriented Design – Implement Simple ATM
+
+I have created a **simple** ATM program with a command-line interface.
